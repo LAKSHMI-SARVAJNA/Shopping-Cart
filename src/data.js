@@ -28,28 +28,28 @@ let shopitemdata = [
         img : "images/img4.jpg"
       },
       {
-        id : "A",
+        id : "E",
         name: "Casual Dress",
         price : 100,
         desc : "Women's Black Dress by Label Shaurya Sanadhya",
         img : "images/img5.jpg"
     },
      {
-        id : "B",
+        id : "F",
         name: "Brown Frock",
         price : 300,
         desc : "Women's  Dress by Label Shaurya Sanadhya",
         img : "images/img6.jpg"
      } , 
      {
-        id : "C",
+        id : "G",
         name: "Asthetic White Frock",
         price : 90,
         desc : "Women's  Dress by Label Shaurya Sanadhya",
         img : "images/img7.jpg"
      } ,
       {
-        id : "D",
+        id : "H",
         name: "Pink and White Frock",
         price : 150,
         desc : "Women's  Dress by Label Shaurya Sanadhya",
